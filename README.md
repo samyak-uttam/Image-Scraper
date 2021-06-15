@@ -1,4 +1,4 @@
-# Image Scrapper
+# Image Scraper
 
 **Image scraping** is a subset of the **web scraping** (to extract content and data from a website) used mostly but not only, for generating a dataset to train your model on, in Machine Learning and Deep Learning.
 
@@ -20,7 +20,7 @@ In this repository, I've used Beautiful Soup, one of the most used python's libr
 	```
 4. After the above steps you're all set to run the file, type
 	```
-	python scrapper.py
+	python scraper.py
 	```
 
 ## Output
